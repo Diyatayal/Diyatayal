@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Diya Tayal</h1>
 <h3 align="center">A passionate AI & Machine Learning Enthusiast</h3>
