@@ -51,8 +51,8 @@ As a software engineer, I enjoy using my 🧠 problem-solving skills and 🎨 cr
 
 ● 💬 Ask me about anything,I am happy to help.
 
-● 📫 Reach me at: **diyatayal@example.com**
- How to reach me: diyatayal@example.com  
+● 📫 How to reach me at: **diyatayal@example.com**
+  
 
 ● 📄 [Resume](https://drive.google.com/file/d/11b4TslAlqTkvGXQE1bIE3cKCQylwIF1T/view?usp=sharing)
 
