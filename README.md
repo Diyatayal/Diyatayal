@@ -72,78 +72,27 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ---
-### 📊 GitHub Stats
-<p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diyatayal&show_icons=true&theme=tokyonight" alt="Diya's GitHub Stats" />
-</p>
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?uhttps://github-readme-stats.vercel.app/api?username=Diyatayal&show_icons=true&theme=tokyonight$0sername=Diyatayal&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
-</p>
+<h3 align="">📊 GitHub Stats</h3>
 
-### 💼 Featured Projects
-
-<!-- Project Table with animation effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00FFFF&width=700&height=45&lines=AI+Resume+Analyzer;Medical+Recommendation+System;Face+Detection+for+Privacy;Skin+Disease+Classification;X-ray+Anomaly+Detection;Image+Caption+Generator" />
-</p>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Description</th>
-      <th>Skills Used</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>AI Resume Analyzer</td>
-      <td>Analyzes resumes, gives ATS score, highlights errors, and suggests improvements.</td>
-      <td>Python, NLP, Flask, LangChain, Streamlit, Gemini API</td>
-    </tr>
-    <tr>
-      <td>Medical Recommendation System</td>
-      <td>Predicts disease from symptoms and recommends meds, workouts, and diets.</td>
-      <td>ML, scikit-learn, Streamlit, MongoDB</td>
-    </tr>
-    <tr>
-      <td>Face Detection for Privacy</td>
-      <td>Detects and blurs faces in photos and videos for privacy protection.</td>
-      <td>OpenCV, Haar Cascades, Python</td>
-    </tr>
-    <tr>
-      <td>Skin Disease Classification</td>
-      <td>Classifies different types of skin diseases using image classification.</td>
-      <td>TensorFlow, CNNs, Keras</td>
-    </tr>
-    <tr>
-      <td>X-ray Anomaly Detection</td>
-      <td>Detects anomalies in X-ray images using deep learning.</td>
-      <td>Deep Learning, TensorFlow, CNN</td>
-    </tr>
-    <tr>
-      <td>Image Caption Generator</td>
-      <td>Generates captions for images using CNN-RNN architecture.</td>
-      <td>Deep Learning, NLP, TensorFlow</td>
-    </tr>
-  </tbody>
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=Diyatayal&show_icons=true&theme=tokyonight" alt="Diya's GitHub Stats" />
+    </td>
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyatayal&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
 </table>
 
----
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diyatayal&show_icons=true&theme=tokyonight" alt="Diya's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diyatayal&theme=tokyonight" alt="Total Contributions" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyatayal&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
----
+
+
+
 
