@@ -24,7 +24,7 @@
 </a>
 </p>
 
-<p align="center" style="display: inline-flex; align-items: center; gap: 8px;">
+<p align="left" style="display: inline-flex; align-items: center; gap: 8px;">
   <strong style="margin-bottom: 0;">Glad to see you here! 😊</strong>
   <img src="https://komarev.com/ghpvc/?username=Diyatayal&label=Views&color=blue&style=flat-square"
        alt="Profile Views"
