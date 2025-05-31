@@ -1,35 +1,28 @@
 <h1 align="center">Hi 👋, I'm Diya Tayal</h1>
 <h3 align="center">A passionate AI & Machine Learning Enthusiast</h3>
+<p align="left" width="100%">
+  <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Anime cat coding">
 
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <strong>🔭 I’m currently working on:</strong><br>
+  AI Resume Analyzer, Medical Recommendation System, Face Detection for Privacy<br><br>
 
-    <div style="flex: 1; min-width: 300px; text-align: left;">
-      <h1>🔭 I’m currently working on:</strong><br>
-      AI Resume Analyzer, Medical Recommendation System, Face Detection for Privacy<br><br>
+  <strong>🌱 I’m exploring:</strong><br>
+  Advanced Deep Learning, MLOps, Generative AI<br><br>
 
-      <strong>🌱 I’m exploring:</strong><br>
-      Advanced Deep Learning, MLOps, Generative AI<br><br>
+  <strong>👨‍💻 All of my projects live at:</strong><br>
+  <a href="https://github.com/Diyatayal">github.com/Diyatayal</a><br><br>
 
-      <strong>👨‍💻 All of my projects live at:</strong><br>
-      <a href="https://github.com/Diyatayal">github.com/Diyatayal</a><br><br>
+  <strong>💬 Ask me about:</strong><br>
+  Python, ML, DL, NLP, Streamlit, Flask, YOLO, LangChain, Google Gemini, MongoDB<br><br>
 
-      <strong>💬 Ask me about:</strong><br>
-      Python, ML, DL, NLP, Streamlit, Flask, YOLO, LangChain, Google Gemini, MongoDB<br><br>
+  <strong>📫 Reach me at:</strong><br>
+  diyatayal@example.com<br><br>
 
-      <strong>📫 Reach me at:</strong><br>
-      diyatayal@example.com<br><br>
+  <strong>⚡ Fun fact:</strong><br>
+  I love turning ideas into real AI apps!
+</p>
 
-      <strong>⚡ Fun fact:</strong><br>
-      I love turning ideas into real AI apps!
-    </div>
-
-    <div style="flex: 1; min-width: 300px; text-align: right;">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Anime cat coding">
-    </div>
-
-  </div>
-</div>
+    
 
 
 - 
