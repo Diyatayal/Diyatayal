@@ -33,24 +33,28 @@
 
 
 
-<p>I am a Data Science and Machine Learning Engineer,I love implementing and enhancing my codes by integrating it with AI.</p>
+### 💡 About Me
 
-<p>As a software engineer, I enjoy using my problem-solving skills and creativity to build impactful, user-centric AI solutions that blend innovation with real-world utility.</p>
+<p>
+I am a <strong>Data Science</strong> and <strong>Machine Learning</strong> enthusiast. I love integrating smart technologies with real-world applications. <br/>
+As a software engineer, I enjoy using my 🧠 problem-solving skills and 🎨 creativity to build impactful, user-centric AI solutions that blend innovation with utility.
+</p>
 
 <p align="left" width="100%">
-  <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Anime cat coding">
+  <img align="right" width="300" src="https://i0.wp.com/www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif?resize=350%2C197&ssl=1" alt="Anime cat coding">
  
-<strong>Talking about Personal Stuff!!</strong>
+<strong>🙋‍♀️ Personal Highlights</strong>
 
-● I am currently working on building good projects. 
+● 🔨 I am currently working on building good projects. 
 
-● I am learning LLMs and concepts of Data Structures and Algorithms.
+● 📘 I am learning LLMs and concepts of Data Structures and Algorithms.
 
-● Ask me about anything,I am happy to help.
+● 💬 Ask me about anything,I am happy to help.
 
-● How to reach me: diyatayal@example.com  
+● 📫 Reach me at: **diyatayal@example.com**
+ How to reach me: diyatayal@example.com  
 
-● [Resume](https://your-resume-link.com)
+● 📄 [Resume](https://drive.google.com/file/d/11b4TslAlqTkvGXQE1bIE3cKCQylwIF1T/view?usp=sharing)
 
 
 
