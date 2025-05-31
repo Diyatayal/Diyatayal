@@ -1,39 +1,61 @@
-<h1 align="center">Hi 👋, I'm Diya Tayal</h1>
-<h3 align="center">A passionate AI & Machine Learning Enthusiast</h3>
+<h1 align="left">Hi there 👋, I'm <span style="color:purple;">Diya Tayal</span></h1>
+
+
+<p align="">
+  <a href="https://linkedin.com/in/diyatayal">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-diya-3754.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+  <!-- Twitter (X) -->
+<a href="https://twitter.com/yourusername">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter" />
+</a>
+
+<!-- Gmail -->
+<a href="mailto:diyatayal@example.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge" alt="Gmail" />
+</a>
+
+<!-- Instagram -->
+<a href="https://instagram.com/yourusername">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" alt="Instagram" />
+</a>
+</p>
+
+<p align="center" style="display: inline-flex; align-items: center; gap: 8px;">
+  <strong style="margin-bottom: 0;">Glad to see you here! 😊</strong>
+  <img src="https://komarev.com/ghpvc/?username=Diyatayal&label=Views&color=blue&style=flat-square"
+       alt="Profile Views"
+       style="border-radius: 10px; height: 25px; margin-top: 3px;" />
+</p>
+
+
+
+<p>I am a Data Science and Machine Learning Engineer,I love implementing and enhancing my codes by integrating it with AI.</p>
+
+<p>As a software engineer, I enjoy using my problem-solving skills and creativity to build impactful, user-centric AI solutions that blend innovation with real-world utility.</p>
+
 <p align="left" width="100%">
   <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Anime cat coding">
+ 
+<strong>Talking about Personal Stuff!!</strong>
 
-  <strong>🔭 I’m currently working on:</strong><br>
-  AI Resume Analyzer, Medical Recommendation System, Face Detection for Privacy<br><br>
+● I am currently working on building good projects. 
 
-  <strong>🌱 I’m exploring:</strong><br>
-  Advanced Deep Learning, MLOps, Generative AI<br><br>
+● I am learning LLMs and concepts of Data Structures and Algorithms.
 
-  <strong>👨‍💻 All of my projects live at:</strong><br>
-  <a href="https://github.com/Diyatayal">github.com/Diyatayal</a><br><br>
+● Ask me about anything,I am happy to help.
 
-  <strong>💬 Ask me about:</strong><br>
-  Python, ML, DL, NLP, Streamlit, Flask, YOLO, LangChain, Google Gemini, MongoDB<br><br>
+● How to reach me: diyatayal@example.com  
 
-  <strong>📫 Reach me at:</strong><br>
-  diyatayal@example.com<br><br>
+● [Resume](https://your-resume-link.com)
 
-  <strong>⚡ Fun fact:</strong><br>
-  I love turning ideas into real AI apps!
+
+
 </p>
 
-    
-
-
-- 
-
-### 🧠 Currently Working On
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Building+cool+AI+apps...;Exploring+GenAI+%26+LLMs...;Creating+Smart+Medical+Systems;Working+on+AI+Resume+Analyzer;Merging+tech+%2B+creativity" alt="Typing animation" />
-</p>
-
----
 
 ### 🚀 Tech Stack
 
@@ -50,6 +72,17 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ---
+### 📊 GitHub Stats
+<p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diyatayal&show_icons=true&theme=tokyonight" alt="Diya's GitHub Stats" />
+</p>
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?uhttps://github-readme-stats.vercel.app/api?username=Diyatayal&show_icons=true&theme=tokyonight$0sername=Diyatayal&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+</p>
 
 ### 💼 Featured Projects
 
@@ -113,15 +146,4 @@
 </p>
 
 ---
-
-### 🌐 Let's Connect!
-
-<p align="center">
-  <a href="https://linkedin.com/in/diyatayal">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
 
