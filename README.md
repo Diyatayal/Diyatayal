@@ -1,4 +1,4 @@
-0o<h1 align="left">Hi there 👋, I'm <span style="color: purple;">Diya Tayal</span></h1>
+<h1 align="left">Hi there 👋, I'm <span style="color: purple;">Diya Tayal</span></h1>
 
 
 <p align="">
@@ -51,10 +51,10 @@ As a software engineer, I enjoy using my 🧠 problem-solving skills and 🎨 cr
 
 ● 💬 Ask me about anything,I am happy to help.
 
-● 📫 How to reach me at: **diyatayal@example.com**
+● 📫 How to reach me at: **diyatayal15@gmail.com**
   
 
-● 📄 [Resume](https://drive.google.com/file/d/11b4TslAlqTkvGXQE1bIE3cKCQylwIF1T/view?usp=sharing)
+● 📄 [Resume](https://drive.google.com/file/d/19TdQkUpybwjfSPecTVBoPADa82j84Dbr/view?usp=sharing)
 
 
 
