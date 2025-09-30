@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋, I'm <span style="color: purple;">Diya Tayal</span></h1>
+0o<h1 align="left">Hi there 👋, I'm <span style="color: purple;">Diya Tayal</span></h1>
 
 
 <p align="">
@@ -14,7 +14,7 @@
 </a>
 
 <!-- Gmail -->
-<a href="mailto:diyatayal@example.com">
+<a href="mailto:diyatayal15@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge" alt="Gmail" />
 </a>
 
